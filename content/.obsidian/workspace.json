@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-lifecycle/5-closing-process-group.md",
+                "file": "04-lifecycle/4-monitoring-and-controlling-process-group.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-closing-process-group"
+              "title": "4-monitoring-and-controlling-process-group"
             }
           }
         ]
@@ -166,8 +166,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "be8b634b8ece4e91",
+  "active": "def11d18479e1d99",
   "lastOpenFiles": [
+    "04-lifecycle/5-closing-process-group.md",
     "04-lifecycle/index.md",
     "04-lifecycle/1-Initiating-process-group.md",
     "04-lifecycle/0-pre-project-requirments.md",
