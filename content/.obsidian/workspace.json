@@ -11,14 +11,12 @@
             "id": "be8b634b8ece4e91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "04-lifecycle/4-monitoring-and-controlling-process-group.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/mandc1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "4-monitoring-and-controlling-process-group"
+              "icon": "lucide-image",
+              "title": "mandc1"
             }
           }
         ]
@@ -166,8 +164,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "def11d18479e1d99",
+  "active": "be8b634b8ece4e91",
   "lastOpenFiles": [
+    "04-lifecycle/4-monitoring-and-controlling-process-group.md",
     "04-lifecycle/5-closing-process-group.md",
     "04-lifecycle/index.md",
     "04-lifecycle/1-Initiating-process-group.md",
