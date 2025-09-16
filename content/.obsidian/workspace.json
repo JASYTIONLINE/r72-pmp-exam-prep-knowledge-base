@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-lifecycle/index.md",
+                "file": "04-lifecycle/5-closing-process-group.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "5-closing-process-group"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "be8b634b8ece4e91",
   "lastOpenFiles": [
+    "04-lifecycle/index.md",
     "04-lifecycle/1-Initiating-process-group.md",
     "04-lifecycle/0-pre-project-requirments.md",
     "index.md",
