@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100-business-environment/index.md",
+                "file": "00-pmo/40-gids/20-about-jasyti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "20-about-jasyti"
             }
           }
         ]
@@ -168,6 +168,11 @@
   },
   "active": "be8b634b8ece4e91",
   "lastOpenFiles": [
+    "assets/portfolio/fs-c1.pdf",
+    "00-pmo/40-gids/20-about-jasyti.md",
+    "100-business-environment/index.md",
+    "assets/portfolio",
+    "assets/New folder",
     "00-pmo/index.md",
     "00-pmo/50-project-pass-pmp/index.md",
     "00-pmo/10-policy/index.md",
@@ -179,7 +184,6 @@
     "200-process/260-resources.md",
     "300-people/index.md",
     "200-process/index.md",
-    "100-business-environment/index.md",
     "100-business-environment/120-strategic-alignment.md",
     "index.md",
     "README.md",
@@ -188,12 +192,10 @@
     "00-pmo/40-gids/40-change-log.md",
     "00-pmo/40-gids/60-risk-log.md",
     "00-pmo/40-gids/30-agenda.md",
-    "00-pmo/40-gids/20-about-jasyti.md",
     "100-business-environment/140-culture-and-change.md",
     "500-eco/530-domain-3-business-environmetn.md",
     "500-eco/510-domain-1-people.md",
     "D1-people.md",
-    "500-eco/domain-3-people.md",
     "00-pmo/40-gids",
     "00-pmo/30-standards",
     "00-pmo/20-procedure",
@@ -201,9 +203,6 @@
     "00-governance/New folder (3)",
     "00-governance/New folder (2)",
     "00-governance/New folder",
-    "00-pmo/50-project-pass-pmp",
-    "assets/refernces/pdf/PMP_Exam Prep_V3.2_ DIGITAL_Student_Workbook.pdf",
-    "assets/refernces/pdf/notes Chapter 1 bus envt.pdf",
     "assets/images/dragon.png",
     "assets/images/endscreen.png",
     "assets/images/mandc1.jpg"

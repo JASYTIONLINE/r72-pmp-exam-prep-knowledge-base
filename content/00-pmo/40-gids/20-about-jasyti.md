@@ -45,6 +45,13 @@ I have been a combat engineer, then graduated Ordnance Missile Electronics Munit
 My goal is to learn the memory elements for multiple-choice questions and improve at the scenario side by “living” PMI in daily work.  I am using every opportunity to employ my PMP KSAs and this site seems like a perfect opportunity to create a knowledge vault which will help me study for the PMP exam.
 
 ---
-## Quick Links
-- [[index|Return to Home]]
+## Portfolio
+
+### Project Management
+### Military
+### Instructor
+### Technical
+- Full Stack - ![[fs-c1.pdf#height=100]]
+- 
+
 
