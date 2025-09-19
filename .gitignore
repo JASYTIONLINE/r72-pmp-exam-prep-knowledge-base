@@ -5,6 +5,7 @@ __pycache__/
 
 # folders to be ignored
 private/
+pmp_project/
 
 # C extensions
 *.so

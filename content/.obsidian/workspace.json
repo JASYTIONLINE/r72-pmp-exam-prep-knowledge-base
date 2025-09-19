@@ -11,12 +11,14 @@
             "id": "be8b634b8ece4e91",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/mandc1.jpg"
+                "file": "100-business-environment/120-strategic-alignment.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "mandc1"
+              "icon": "lucide-file",
+              "title": "120-strategic-alignment"
             }
           }
         ]
@@ -166,12 +168,44 @@
   },
   "active": "be8b634b8ece4e91",
   "lastOpenFiles": [
-    "04-lifecycle/4-monitoring-and-controlling-process-group.md",
-    "04-lifecycle/5-closing-process-group.md",
-    "04-lifecycle/index.md",
-    "04-lifecycle/1-Initiating-process-group.md",
-    "04-lifecycle/0-pre-project-requirments.md",
     "index.md",
-    "00-gov-pmp/index.md"
+    "README.md",
+    "400-exam-prep/index.md",
+    "500-eco/index.md",
+    "300-people/index.md",
+    "200-process/index.md",
+    "100-business-environment/index.md",
+    "00-pmo/index.md",
+    "00-pmo/50-project-pass-pmp/index.md",
+    "00-pmo/40-gids/index.md",
+    "00-pmo/30-standards/index.md",
+    "00-pmo/20-procedure/index.md",
+    "00-pmo/10-policy/index.md",
+    "500-eco/520-domain-2-process.md",
+    "00-pmo/40-gids/70-lessons-learned.md",
+    "00-pmo/40-gids/40-change-log.md",
+    "00-pmo/40-gids/60-risk-log.md",
+    "00-pmo/40-gids/30-agenda.md",
+    "00-pmo/40-gids/20-about-jasyti.md",
+    "100-business-environment/140-culture-and-change.md",
+    "500-eco/530-domain-3-business-environmetn.md",
+    "500-eco/510-domain-1-people.md",
+    "D1-people.md",
+    "500-eco/domain-3-people.md",
+    "00-governance/40-guidance/40-site-map.md",
+    "00-governance/40-guidance/40-site-map1.md",
+    "00-pmo/40-gids",
+    "00-pmo/30-standards",
+    "00-pmo/20-procedure",
+    "00-pmo/10-policy",
+    "00-governance/New folder (3)",
+    "00-governance/New folder (2)",
+    "00-governance/New folder",
+    "00-pmo/50-project-pass-pmp",
+    "assets/refernces/pdf/PMP_Exam Prep_V3.2_ DIGITAL_Student_Workbook.pdf",
+    "assets/refernces/pdf/notes Chapter 1 bus envt.pdf",
+    "assets/images/dragon.png",
+    "assets/images/endscreen.png",
+    "assets/images/mandc1.jpg"
   ]
 }

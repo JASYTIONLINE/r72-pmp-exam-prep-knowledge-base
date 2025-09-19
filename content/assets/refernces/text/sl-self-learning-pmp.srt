@@ -1,0 +1,2124 @@
+1
+00:00:00,000 --> 00:00:20,000
+Hello, and welcome to the course overview of project management professional or PMP certification course.
+
+2
+00:00:20,000 --> 00:00:26,000
+Before we start, let's see what PMI or Project Management Institute is.
+
+3
+00:00:26,000 --> 00:00:36,000
+Project Management Institute PMI is the world's leading association for those who consider project, program, or portfolio management their profession.
+
+4
+00:00:36,000 --> 00:00:52,000
+Through global advocacy, collaboration, education, and research, we work to prepare more than 3 million professionals around the world for the project economy, the coming economy in which work and individuals are organized around projects.
+
+5
+00:00:52,000 --> 00:01:11,000
+PMI conducted a global practice analysis market research study, which produced a number of trends in the profession. Previously, unaddressed in the PMP exam, these trends were used as inputs into the job task analysis to ensure the validity and relevance of the PMP examination.
+
+6
+00:01:11,000 --> 00:01:24,000
+Validation assures the outcome of the exam is, in fact, measuring and evaluating appropriately the specific knowledge and skills required to function as a project management practitioner.
+
+7
+00:01:24,000 --> 00:01:35,000
+Thus, the job task analysis guarantees that each examination validly measures all elements of the project management profession in terms of a real life setting.
+
+8
+00:01:35,000 --> 00:01:43,000
+Let's now understand what project management professional or PMP is. It is one of the certifications awarded by PMI.
+
+9
+00:01:43,000 --> 00:01:53,000
+It is an industry recognized credential and is valid across the globe. It is a recognized certification that accelerates your career and gives you a competitive edge.
+
+10
+00:01:53,000 --> 00:01:59,000
+It is an important industry recognized certification for project managers.
+
+11
+00:01:59,000 --> 00:02:14,000
+PMP delivers value far into your career. The CIO magazine ranks the PMP certification as the top project management certification because it proves you have the specific skills and experience employers seek.
+
+12
+00:02:14,000 --> 00:02:22,000
+Certified PMPs reported earning up to 25% more than non-certified project management professionals.
+
+13
+00:02:22,000 --> 00:02:42,000
+PMP certification is not restricted to a specific domain. A project manager working in any industry, such as manufacturing, retail, defense or information technology, can write the PMP exam and upon successful completion. Be a PMP certified professional.
+
+14
+00:02:42,000 --> 00:03:00,000
+This course is designed for individuals who have on-the-job project management experience regardless of whether their formal job role is as a project manager for those who are not certified professionals and those who might or might not have received formal project management training.
+
+15
+00:03:00,000 --> 00:03:24,000
+Before you apply, make sure you meet of the following sets of PMP certification requirements. A four-year degree, 36 months leading projects, 35 hours of project management education or training, or CAPN certification, or the high school diploma or an associate's degree, or globally equivalent, 60 months leading projects,
+
+16
+00:03:24,000 --> 00:03:38,000
+35 hours of project management education training or CAPN certification. The examination content outline, or ECO, is the most radical change to the exam in more than 20 years.
+
+17
+00:03:38,000 --> 00:03:53,000
+It changes the test domains from the five process groups of initiating, planning, executing, monitoring and controlling, and closing to three completely different domains titled People, Process and Business Environment.
+
+18
+00:03:53,000 --> 00:04:06,000
+The PMP examination content outline, ECO documents the domains, tasks and enablers that are addressed in the PMP certification exam. Let's look at each of them in detail.
+
+19
+00:04:06,000 --> 00:04:17,000
+Domains referred to the high-level knowledge area essential to the practice of project management. Tasks are the underlying responsibilities of the project manager within each domain area.
+
+20
+00:04:17,000 --> 00:04:33,000
+Enablers are illustrative examples of the work associated with the task. The PMP exam content outline, or ECO, will be based on three domains, People, Process and Business Environment. Let's look at each of them.
+
+21
+00:04:33,000 --> 00:04:46,000
+People domain emphasizes the skills and activities associated with effectively leading a project team. Process domain reinforces the technical aspects of managing a project.
+
+22
+00:04:46,000 --> 00:05:02,000
+Business Environment domain highlights the connection between projects and organizational strategy. Content that spans the value delivery spectrum, including predictive, agile and hybrid approaches, will be included across the three exam domains.
+
+23
+00:05:02,000 --> 00:05:19,000
+Let us look at the percentages of questions from each domain. People domain will include 42% of the questions. Process domain comprises 50% of the questions, and Business Environment domain consists of 8% of the questions.
+
+24
+00:05:19,000 --> 00:05:29,000
+Now that we know what domains, tasks and enablers are, we will look at examples of tasks and enablers within the people domain.
+
+25
+00:05:29,000 --> 00:05:48,000
+In this example, the task is to manage conflict. The enablers for this task are interpreting the source and stage of the conflict, analyzing the context for the conflict and evaluating, recommending or reconciling the appropriate conflict resolution solution,
+
+26
+00:05:48,000 --> 00:05:59,000
+as discussed earlier, there are 14 tasks in the people domain, and all the tasks are shown on the screen. These tasks help to build an efficient and high-performing team.
+
+27
+00:05:59,000 --> 00:06:10,000
+The process domain has 17 tasks, and they are shown here. These tasks make process management easier and reduce the risks and defects in a process.
+
+28
+00:06:10,000 --> 00:06:22,000
+There are four tasks in the Business Environment domain, as shown on the screen. These tasks help an organization create and deliver value as efficiently as possible in their environment.
+
+29
+00:06:22,000 --> 00:06:38,000
+Let us now look at the course outline. There are six topics in this course. They are, Business Environment, Lead the project team. Start the project, support project team performance, plan the project, close the project or phase.
+
+30
+00:06:39,000 --> 00:06:50,000
+With this course from Simply Learn, you will get self-paced videos. You will also get access to case studies that will give you real-world examples of the concepts covered in this course.
+
+31
+00:06:50,000 --> 00:06:58,000
+You will also have access to assessments that will test the knowledge you will gain throughout the course. Let us now move on to the exam pattern.
+
+32
+00:06:59,000 --> 00:07:13,000
+The P&P exam comprises 180 questions in total. Of the 180 questions, 175 are scored, and 5 are considered pre-test or unscored questions.
+
+33
+00:07:13,000 --> 00:07:24,000
+Pre-test questions do not affect the score, and are used in the examination as an effective and legitimate way to test the validity of future examination questions.
+
+34
+00:07:24,000 --> 00:07:30,000
+All questions are randomly placed throughout the examination. Let us look at the question types.
+
+35
+00:07:30,000 --> 00:07:38,000
+Questions will be a combination of multiple choice, multiple responses, matching, hotspot and limited fill in the blanks.
+
+36
+00:07:38,000 --> 00:07:48,000
+The allotted time to complete. The examination is 230 minutes. It may take some candidates less than the allotted time to complete the examination.
+
+37
+00:07:48,000 --> 00:07:57,000
+You will have a total of two 10-minute breaks for computer-based exam. Please note that there are no scheduled breaks for paper-based exam.
+
+38
+00:07:57,000 --> 00:08:08,000
+The examination is preceded by a tutorial and followed by a survey, both of which are optional and which take 5 to 15 minutes to complete.
+
+39
+00:08:08,000 --> 00:08:15,000
+The time used to complete the tutorial and survey is not included in the examination time.
+
+40
+00:08:15,000 --> 00:08:22,000
+Last but not the least, let us look at how PMI scores the exam. There is no negative marking.
+
+41
+00:08:22,000 --> 00:08:34,000
+PMI does not give a pass percentage for the exam. The results will be based on proficiency level, that is above target, meaning target, below target and needs improvement.
+
+42
+00:08:34,000 --> 00:08:39,000
+Let's look at the list of references for the PMP examination.
+
+43
+00:08:39,000 --> 00:08:47,000
+PMP exam is not written according to any single text or singularly supported by any particular reference.
+
+44
+00:08:47,000 --> 00:08:56,000
+PMI does not endorse specific review courses, resources, references or other materials to prepare for the exam.
+
+45
+00:08:56,000 --> 00:09:07,000
+As the PMP is a competency-based certification, which assesses the integrated set of knowledge, skills, and abilities gained from both practical and learned experiences.
+
+46
+00:09:07,000 --> 00:09:21,000
+It should also be noted that the references identified herewith are but one element of a broader set of educational resources and texts that might possibly be utilized for exam and study preparation.
+
+47
+00:09:21,000 --> 00:09:28,000
+This reference list is provided only as a courtesy for the non-PMI publications on this list.
+
+48
+00:09:28,000 --> 00:09:36,000
+PMI does not endorse such publications or warrant the accuracy of the information or opinions contained therein.
+
+49
+00:09:36,000 --> 00:09:41,000
+The PMBock Guide is as one of the references for the PMP exam.
+
+50
+00:09:41,000 --> 00:09:44,000
+The other references are shown here.
+
+51
+00:09:48,000 --> 00:09:50,000
+Let's get started!
+
+52
+00:10:06,000 --> 00:10:13,000
+The PMP exam is not written according to any single text or singularly supported by any particular reference.
+
+53
+00:10:13,000 --> 00:10:18,000
+The PMP exam is provided only as a courtesy for the PMP exam.
+
+54
+00:10:18,000 --> 00:10:23,000
+The PMP exam is provided only as a courtesy for the PMP exam.
+
+55
+00:10:23,000 --> 00:10:29,000
+The PMP exam is provided only as a courtesy for the PMP exam.
+
+1
+00:00:00,000 --> 00:00:04,000
+Let's look at the foundational concepts of project management.
+
+2
+00:00:04,000 --> 00:00:07,000
+Let's first look at what is a project.
+
+3
+00:00:07,000 --> 00:00:12,000
+According to the PIMBOK Guide, a project is a temporary endeavor
+
+4
+00:00:12,000 --> 00:00:16,000
+undertaken to create a unique product, service, or result.
+
+5
+00:00:16,000 --> 00:00:21,000
+Temporary means that a project has definite start and end dates.
+
+6
+00:00:21,000 --> 00:00:26,000
+Projects are taken up for a definite period to create value, drive change,
+
+7
+00:00:26,000 --> 00:00:29,000
+and deliver business value.
+
+8
+00:00:30,000 --> 00:00:35,000
+Here are a few examples of projects developing a new product,
+
+9
+00:00:35,000 --> 00:00:39,000
+constructing a building, merging two organizations,
+
+10
+00:00:39,000 --> 00:00:45,000
+developing a new software application, erecting and commissioning a manufacturing plant,
+
+11
+00:00:45,000 --> 00:00:50,000
+upgrading an existing product, developing a new service.
+
+12
+00:00:50,000 --> 00:00:55,000
+Temporary projects come to an end when the objectives have been met,
+
+13
+00:00:55,000 --> 00:01:00,000
+or the objectives can no longer be met to defectors such as,
+
+14
+00:01:00,000 --> 00:01:04,000
+lack of a business need, unavailability of funding,
+
+15
+00:01:04,000 --> 00:01:10,000
+changes in organizational priorities or strategy, changes in the external environment,
+
+16
+00:01:10,000 --> 00:01:17,000
+the project is aborted or forcefully closed when the objectives can no longer be met.
+
+17
+00:01:18,000 --> 00:01:24,000
+Let us talk about the critical success factors of a project.
+
+18
+00:01:24,000 --> 00:01:29,000
+The success of a project depends on several factors, including,
+
+19
+00:01:29,000 --> 00:01:33,000
+definition of the core problem and the needs of the project,
+
+20
+00:01:33,000 --> 00:01:37,000
+the organization's ability and maturity in project management,
+
+21
+00:01:37,000 --> 00:01:41,000
+availability of resources, skill levels of the team members,
+
+22
+00:01:41,000 --> 00:01:45,000
+availability of funding, and collaboration and communication
+
+23
+00:01:45,000 --> 00:01:48,000
+among project stakeholders.
+
+24
+00:01:48,000 --> 00:01:53,000
+Successful project management includes understanding project management concepts
+
+25
+00:01:53,000 --> 00:01:58,000
+and being able to adapt and apply them to the individual project.
+
+26
+00:01:58,000 --> 00:02:02,000
+Let's now look at the factors leading to the failure of projects.
+
+27
+00:02:02,000 --> 00:02:07,000
+Research has identified the following top reasons for project failures,
+
+28
+00:02:07,000 --> 00:02:11,000
+ambiguous, misunderstood or incorrect requirements,
+
+29
+00:02:11,000 --> 00:02:15,000
+lack of control over project costs and schedules,
+
+30
+00:02:15,000 --> 00:02:21,000
+scoop creep, minimal involvement of sponsors in the project strategy and direction,
+
+31
+00:02:21,000 --> 00:02:27,000
+not existent, out-of-date, incomplete or poorly constructed project plan,
+
+32
+00:02:27,000 --> 00:02:32,000
+frequently changing project managers, unclear responsibilities and relationships
+
+33
+00:02:32,000 --> 00:02:36,000
+among project teams, both internal and external,
+
+34
+00:02:36,000 --> 00:02:40,000
+lack of clarity regarding project benefits and deliverables,
+
+35
+00:02:40,000 --> 00:02:45,000
+poor or no-change control, inappropriate or insufficient skills.
+
+36
+00:02:51,000 --> 00:02:56,000
+Let us take a look at project life cycles and their development approach.
+
+37
+00:02:56,000 --> 00:03:01,000
+In a broad sense, there are three methodologies for project management.
+
+38
+00:03:01,000 --> 00:03:07,000
+The predictive or planned-driven method often referred to as the traditional waterfall approach.
+
+39
+00:03:08,000 --> 00:03:12,000
+The agile method, a more modern and adaptive approach.
+
+40
+00:03:12,000 --> 00:03:18,000
+The hybrid method, which combines elements of both waterfall and agile approaches.
+
+41
+00:03:18,000 --> 00:03:24,000
+The predictive or planned-driven approach is also referred to as the waterfall life cycle.
+
+42
+00:03:24,000 --> 00:03:29,000
+This approach is taken in those projects where the requirements are predetermined
+
+43
+00:03:29,000 --> 00:03:34,000
+and are not likely to change as changes may increase costs significantly.
+
+44
+00:03:35,000 --> 00:03:41,000
+An example of the predictive or planned-driven approach is the construction of an apartment complex.
+
+45
+00:03:41,000 --> 00:03:46,000
+The project manager plays a crucial role in ensuring a successful project.
+
+46
+00:03:46,000 --> 00:03:51,000
+When the project is completed, the deliverables are transitioned to the customer
+
+47
+00:03:51,000 --> 00:03:56,000
+and the value is realized both in the short and long term.
+
+48
+00:03:56,000 --> 00:04:02,000
+An agile approach is recommended in those complex projects where the end product is not known
+
+49
+00:04:02,000 --> 00:04:05,000
+and there could be frequent changes.
+
+50
+00:04:05,000 --> 00:04:09,000
+The coordination of the customer and the team drives the project forward.
+
+51
+00:04:09,000 --> 00:04:16,000
+An example of an agile approach is a pharmaceutical research project or a project to develop software.
+
+52
+00:04:17,000 --> 00:04:21,000
+The product owner controls the value proposition and delivery.
+
+53
+00:04:21,000 --> 00:04:25,000
+The team works on and delivers the product or solution.
+
+54
+00:04:25,000 --> 00:04:30,000
+The scrum master or agile coach facilitates throughout the cycle.
+
+55
+00:04:31,000 --> 00:04:36,000
+A hybrid approach is a combination of waterfall and agile approaches.
+
+56
+00:04:36,000 --> 00:04:41,000
+This approach is recommended in projects where some requirements are known and fixed
+
+57
+00:04:41,000 --> 00:04:47,000
+in certain areas of the project, while new methods or techniques could be tried in other areas
+
+58
+00:04:47,000 --> 00:04:49,000
+within the same project.
+
+59
+00:04:49,000 --> 00:04:54,000
+The team might switch approaches based on the changing work requirements or circumstances.
+
+60
+00:04:54,000 --> 00:05:01,000
+Projects can be predominantly predictive while using some agile components or predominantly agile
+
+61
+00:05:01,000 --> 00:05:04,000
+using some predictive components.
+
+62
+00:05:04,000 --> 00:05:08,000
+An example of a hybrid approach is designing a spacecraft.
+
+63
+00:05:08,000 --> 00:05:12,000
+Let's now understand what a development lifecycle means.
+
+64
+00:05:12,000 --> 00:05:18,000
+It is the cost-effective and time-efficient process that development teams use to design
+
+65
+00:05:18,000 --> 00:05:20,000
+and build high-quality products.
+
+66
+00:05:21,000 --> 00:05:27,000
+The development of a product in a project can follow a predictive lifecycle, an iterative lifecycle,
+
+67
+00:05:27,000 --> 00:05:35,000
+an incremental lifecycle, an adaptive lifecycle, and a hybrid lifecycle, a predictive lifecycle.
+
+68
+00:05:35,000 --> 00:05:41,000
+Here, the project scope, time, and cost are determined as early as possible.
+
+69
+00:05:41,000 --> 00:05:45,000
+The changes to the project scope are carefully managed.
+
+70
+00:05:45,000 --> 00:05:49,000
+It is also referred to as the waterfall lifecycle.
+
+71
+00:05:50,000 --> 00:05:52,000
+An iterative lifecycle.
+
+72
+00:05:52,000 --> 00:05:58,000
+In this model, the scope is determined earlier, but the time at cost estimates are regularly modified
+
+73
+00:05:58,000 --> 00:06:02,000
+as the understanding of the product increases.
+
+74
+00:06:02,000 --> 00:06:04,000
+An incremental lifecycle.
+
+75
+00:06:04,000 --> 00:06:11,000
+Here, the deliverable is produced through a series of iterations that successfully add functionality.
+
+76
+00:06:11,000 --> 00:06:13,000
+An adaptive lifecycle.
+
+77
+00:06:13,000 --> 00:06:18,000
+Here, projects can be agile, iterative, or incremental.
+
+78
+00:06:18,000 --> 00:06:22,000
+The scope is defined and approved before the start of an iteration.
+
+79
+00:06:22,000 --> 00:06:27,000
+It is also referred to as agile or change-driven lifecycle.
+
+80
+00:06:27,000 --> 00:06:32,000
+The iterations are rapid and have fixed duration and cost.
+
+81
+00:06:32,000 --> 00:06:34,000
+A hybrid lifecycle.
+
+82
+00:06:34,000 --> 00:06:40,000
+A hybrid lifecycle is a combination of a predictive and an adaptive lifecycle.
+
+83
+00:06:40,000 --> 00:06:44,000
+How does the iterative and incremental approach help?
+
+84
+00:06:44,000 --> 00:06:51,000
+These involve phases that are intentionally repeated as the team keeps on knowing their deliverables better.
+
+85
+00:06:51,000 --> 00:06:57,000
+It is a good practice to use iterative and incremental practices throughout the project lifecycle,
+
+86
+00:06:57,000 --> 00:07:01,000
+as it will help the project team to increase the clarity in requirements,
+
+87
+00:07:01,000 --> 00:07:05,000
+make estimates more accurate and reduce risks.
+
+88
+00:07:05,000 --> 00:07:17,000
+Let us explore the concept of a project management office.
+
+89
+00:07:17,000 --> 00:07:25,000
+A project management office, PMO, is an organizational structure that standardizes project-related governance processes
+
+90
+00:07:25,000 --> 00:07:31,000
+and facilitates the sharing of resources, methodologies, tools, and techniques.
+
+91
+00:07:31,000 --> 00:07:37,000
+The three types of PMO are supportive, controlling, and directive.
+
+92
+00:07:37,000 --> 00:07:44,000
+The supportive PMO's focus on developing best practices, methodologies, standards, and templates.
+
+93
+00:07:44,000 --> 00:07:49,000
+They also coach mentor, train, and guide project managers.
+
+94
+00:07:49,000 --> 00:07:56,000
+Whereas, controlling PMOs are responsible for monitoring compliance with project management standards,
+
+95
+00:07:56,000 --> 00:08:01,000
+policies, procedures, and templates through project audits.
+
+96
+00:08:01,000 --> 00:08:09,000
+Likewise, directive PMOs manage shared resources and facilitate communication between various projects.
+
+97
+00:08:09,000 --> 00:08:16,000
+Remember that the level of control varies depending on the type of PMO structure in organizations.
+
+98
+00:08:16,000 --> 00:08:24,000
+The supportive PMO involves low control, the controlling PMO involves medium control,
+
+99
+00:08:24,000 --> 00:08:28,000
+and the directive PMO involves high control.
+
+100
+00:08:28,000 --> 00:08:36,000
+Furthermore, some organizations have agile centers of excellence, also known as value delivery office.
+
+101
+00:08:36,000 --> 00:08:43,000
+The role of an agile centers of excellence is to enable the project teams by coaching and mentoring,
+
+102
+00:08:43,000 --> 00:08:53,000
+rather than managing them, and build agile mindset, skills, and capabilities throughout the organization.
+
+103
+00:08:53,000 --> 00:09:04,000
+Let's understand what organizational project management or OPM means.
+
+104
+00:09:04,000 --> 00:09:12,000
+OPM is a strategy execution framework that coordinates project, program, portfolio, and operations management,
+
+105
+00:09:12,000 --> 00:09:16,000
+and which enables organizations to deliver a strategy.
+
+106
+00:09:16,000 --> 00:09:21,000
+Project management enables the achievement of organizational goals and objectives.
+
+107
+00:09:21,000 --> 00:09:29,000
+Program management harmonizes its program components, and controls interdependencies to realize specified benefits.
+
+108
+00:09:29,000 --> 00:09:37,000
+Portfolio management aligns portfolios with organizational strategies by selecting the right programs or projects,
+
+109
+00:09:37,000 --> 00:09:41,000
+prioritizing the work, and providing the needed resources.
+
+110
+00:09:41,000 --> 00:09:47,000
+And finally, operations management includes an organization's day-to-day operations,
+
+111
+00:09:47,000 --> 00:09:57,000
+and when all the above are strategically managed, they combine to create OPM.
+
+112
+00:09:57,000 --> 00:10:04,000
+Let us now understand the relationship between projects, programs, and portfolios.
+
+113
+00:10:04,000 --> 00:10:10,000
+According to the Project Management Institute, a guide to the project management body of knowledge,
+
+114
+00:10:10,000 --> 00:10:20,000
+PIMBOK Guide, Sixth Edition, a program is a group of related projects, subsidiary programs, and program activities that are managed in a
+
+115
+00:10:20,000 --> 00:10:35,000
+coordinated manner to obtain benefits not available from managing them individually.
+
+116
+00:10:35,000 --> 00:10:46,000
+A portfolio is a collection of projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives.
+
+117
+00:10:46,000 --> 00:10:52,000
+The image here shows the relation between portfolios, programs, and projects.
+
+118
+00:10:52,000 --> 00:10:57,000
+A portfolio represents a portion of an organization's overall strategy.
+
+119
+00:10:57,000 --> 00:11:02,000
+The strategic goals are cascaded down to lower-level components.
+
+120
+00:11:02,000 --> 00:11:12,000
+A portfolio may contain programs, projects, and also other work.
+
+121
+00:11:12,000 --> 00:11:16,000
+Let's explore the concept of organizational structures.
+
+122
+00:11:16,000 --> 00:11:21,000
+Let us now understand how an organizational structure affects a project.
+
+123
+00:11:21,000 --> 00:11:30,000
+The organizational structure plays a critical role in determining how different groups and individuals within the organization interact.
+
+124
+00:11:30,000 --> 00:11:38,000
+It also impacts the authority of the project manager, resource availability, and the way the projects are carried out.
+
+125
+00:11:38,000 --> 00:11:51,000
+Let's examine the various types of organizational structures, including functional structure, matrix structure, project-oriented structure, and composite structure.
+
+126
+00:11:51,000 --> 00:11:54,000
+Let us start with the functional structure.
+
+127
+00:11:54,000 --> 00:11:59,000
+Organizations with a functional structure share the following characteristics.
+
+128
+00:11:59,000 --> 00:12:05,000
+Resources are grouped based on carrying out specific, similar sets of activities.
+
+129
+00:12:05,000 --> 00:12:12,000
+Reporting is hierarchical, with individuals reporting to their functional head, the functional manager.
+
+130
+00:12:12,000 --> 00:12:17,000
+The project manager has lower authority compared to the functional manager.
+
+131
+00:12:17,000 --> 00:12:23,000
+In a matrix structure, resources are drawn from other functional areas.
+
+132
+00:12:23,000 --> 00:12:31,000
+They report to multiple managers, the functional manager, their resource manager, and possibly to the project manager.
+
+133
+00:12:31,000 --> 00:12:41,000
+The structure may be characterized as weak, balanced, or strong, depending on the relative authority of the project manager to the functional manager.
+
+134
+00:12:41,000 --> 00:12:53,000
+The project-oriented structure is characterized by the project manager and a core project team that operate as a separate organizational unit within the parent organization.
+
+135
+00:12:53,000 --> 00:12:59,000
+Resources are 100% dedicated to the project and report to the project manager.
+
+136
+00:12:59,000 --> 00:13:05,000
+The project manager has a significant amount of authority and independence.
+
+137
+00:13:05,000 --> 00:13:16,000
+All organizational structures, including functional, matrix, and project-oriented structures at various levels of an organization, are considered composite structures.
+
+138
+00:13:22,000 --> 00:13:26,000
+Now, let us look into the project management principles.
+
+139
+00:13:26,000 --> 00:13:33,000
+The project management institute has articulated 12 principles in the standard for project management.
+
+140
+00:13:33,000 --> 00:13:43,000
+A guide to the project management body of knowledge, Pinbock Guide, 7th addition to provide broad parameters within which project teams can operate.
+
+141
+00:13:43,000 --> 00:13:49,000
+These principles are a fundamental part of PMI's framework for project management.
+
+142
+00:13:49,000 --> 00:13:55,000
+Let's now take a closer look at the 12 principles of project management institute.
+
+143
+00:13:55,000 --> 00:13:59,000
+Be a diligent, respectful, and caring steward.
+
+144
+00:13:59,000 --> 00:14:03,000
+Recognize, evaluate, and respond to system interactions.
+
+145
+00:14:03,000 --> 00:14:08,000
+Navigate complexity. Create a collaborative project team environment.
+
+146
+00:14:08,000 --> 00:14:13,000
+Demonstrate leadership behaviors. Optimize risk responses.
+
+147
+00:14:13,000 --> 00:14:18,000
+Effectively engage with stakeholders. Taylor based on context.
+
+148
+00:14:18,000 --> 00:14:22,000
+Embrace adaptability and resiliency. Focus on value.
+
+149
+00:14:22,000 --> 00:14:29,000
+Build quality into processes and deliverables. And enable change to achieve the envisioned future state.
+
+150
+00:14:35,000 --> 00:14:39,000
+Let's get an insight into different performance domains.
+
+151
+00:14:39,000 --> 00:14:48,000
+A project performance domain is a group of related activities that are critical for the effective delivery of project outcomes.
+
+152
+00:14:49,000 --> 00:14:58,000
+According to the Pinbock Guide, 7th addition, as the performance domains interact and react to each other, change occurs.
+
+153
+00:14:58,000 --> 00:15:05,000
+There are eight performance domains that include stakeholders, team, development approach, and life cycle.
+
+154
+00:15:05,000 --> 00:15:11,000
+Planning, project work, delivery, measurement, and uncertainty.
+
+155
+00:15:12,000 --> 00:15:18,000
+In the stakeholders domain, a conducive working relationship with stakeholders is established.
+
+156
+00:15:18,000 --> 00:15:22,000
+Stakeholder relationships are beneficial for the project.
+
+157
+00:15:22,000 --> 00:15:28,000
+Stakeholders agree with project objectives, and there is a shared understanding.
+
+158
+00:15:28,000 --> 00:15:32,000
+In the team domain, team has a shared ownership.
+
+159
+00:15:32,000 --> 00:15:38,000
+Team is high performing. Every team member has good leadership and interpersonal skills.
+
+160
+00:15:39,000 --> 00:15:46,000
+In development approach and life cycle domain, approach is consistent with deliverables of the project.
+
+161
+00:15:46,000 --> 00:15:51,000
+Project delivers value for business and stakeholders throughout the project.
+
+162
+00:15:51,000 --> 00:15:56,000
+Approach follows a delivery cadence for the project deliverables.
+
+163
+00:15:56,000 --> 00:16:01,000
+In the planning domain, the project is well organized and coordinated.
+
+164
+00:16:01,000 --> 00:16:06,000
+The project plan takes an integrated approach to achieve the desired outcomes.
+
+165
+00:16:06,000 --> 00:16:13,000
+Progressive elaboration produces the project's deliverables and outcomes, and the plans are responsive to change.
+
+166
+00:16:13,000 --> 00:16:20,000
+In the project work domain, the aim is to make performance efficient and effective.
+
+167
+00:16:20,000 --> 00:16:26,000
+This involves using processes that are suitable for the specific project and its context.
+
+168
+00:16:26,000 --> 00:16:33,000
+Other areas, such as open and appropriate communication with stakeholders, efficient management of physical resources,
+
+169
+00:16:33,000 --> 00:16:38,000
+and effective handling of procurements are also emphasized.
+
+170
+00:16:38,000 --> 00:16:47,000
+To further enhance projects, the focus turns to improving the team's capabilities through continuous learning and process refinement.
+
+171
+00:16:47,000 --> 00:16:52,000
+When it comes to the delivery domain, the major points of focus are,
+
+172
+00:16:52,000 --> 00:16:57,000
+the project is aligned with business objectives and strategic outcomes,
+
+173
+00:16:57,000 --> 00:17:05,000
+the project delivers the planned output, the results and benefits are achieved within the time frame that has been specified before.
+
+174
+00:17:05,000 --> 00:17:14,000
+Requirements are well understood by the project team and the stakeholders accept the deliverables and are satisfied with project outcomes.
+
+175
+00:17:14,000 --> 00:17:21,000
+In the measurement domain, performance is measured periodically to reflect the true status of the project.
+
+176
+00:17:21,000 --> 00:17:26,000
+Work performance data is collected regularly to help in decision making.
+
+177
+00:17:26,000 --> 00:17:32,000
+Timely interventions and decisions are taken to keep the project performance on track.
+
+178
+00:17:32,000 --> 00:17:38,000
+Reliable forecasts and reports are used to achieve the intended outcomes of the project.
+
+179
+00:17:38,000 --> 00:17:45,000
+In the uncertainty domain, monitor the project environment using frameworks like pestle and vuka,
+
+180
+00:17:45,000 --> 00:17:52,000
+proactively identify and respond to uncertainty, anticipate threats and mitigate them,
+
+181
+00:17:52,000 --> 00:17:56,000
+leverage opportunities and harness them to improve performance.
+
+182
+00:17:56,000 --> 00:18:00,000
+Manage issues effectively.
+
+183
+00:18:03,000 --> 00:18:09,000
+This topic will introduce you to tailoring projects to context.
+
+184
+00:18:09,000 --> 00:18:17,000
+According to the PIMBOC Guide 7th edition, tailoring is the deliberate adaptation of the project management approach,
+
+185
+00:18:17,000 --> 00:18:23,000
+governance and processes to make them more suitable for the given environment and the work at hand.
+
+186
+00:18:23,000 --> 00:18:30,000
+It is important to understand that tailoring is done to align with the organization, project needs,
+
+187
+00:18:30,000 --> 00:18:37,000
+the business environment and to benefit the project, its stakeholders and support the intended outcomes.
+
+188
+00:18:37,000 --> 00:18:40,000
+What aspects of the project can be tailored?
+
+189
+00:18:40,000 --> 00:18:46,000
+According to the PIMBOC Guide 7th edition, project aspects that can be tailored include
+
+190
+00:18:46,000 --> 00:18:55,000
+life cycle and development approach selection, processes, engagement, tools, methods and artifacts.
+
+191
+00:18:58,000 --> 00:19:03,000
+This topic will introduce you to the Agile Manifesto and its principles.
+
+192
+00:19:03,000 --> 00:19:13,000
+In 2001, a group of software developers released the Agile Manifesto, serving as the foundation for various methodologies.
+
+193
+00:19:13,000 --> 00:19:22,000
+The original Agile Manifesto is composed of four foundational values that were mainly applied to software development.
+
+194
+00:19:22,000 --> 00:19:33,000
+The four foundational values include individuals and interaction over process and tools, working software over comprehensive documentation,
+
+195
+00:19:33,000 --> 00:19:41,000
+customer collaboration over contract negotiation and responding to change over following a plan.
+
+196
+00:19:41,000 --> 00:19:46,000
+Let's now take a closer look at the 12 principles of Agile.
+
+197
+00:19:46,000 --> 00:19:53,000
+The highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+
+198
+00:19:53,000 --> 00:19:57,000
+Welcome changing requirements, even late in development.
+
+199
+00:19:57,000 --> 00:20:02,000
+Agile processes harness change for the customer's competitive advantage.
+
+200
+00:20:02,000 --> 00:20:10,000
+Deliver working software frequently from a couple of weeks to a couple of months with a preference to the shorter time scale.
+
+201
+00:20:10,000 --> 00:20:15,000
+Business people and developers must work together daily throughout the project.
+
+202
+00:20:15,000 --> 00:20:24,000
+Build projects around motivated individuals, give them the environment and support they need and trust them to get the job done.
+
+203
+00:20:24,000 --> 00:20:33,000
+The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+
+204
+00:20:33,000 --> 00:20:37,000
+Working software is the primary measure of progress.
+
+205
+00:20:37,000 --> 00:20:40,000
+Agile processes promote sustainable development.
+
+206
+00:20:40,000 --> 00:20:48,000
+The sponsors, developers and users should be able to maintain a constant pace indefinitely.
+
+207
+00:20:48,000 --> 00:20:54,000
+Continuous attention to technical excellence and good design enhances agility.
+
+208
+00:20:54,000 --> 00:21:00,000
+Simplicity. The art of maximizing the amount of work not done is essential.
+
+209
+00:21:00,000 --> 00:21:06,000
+The best architectures, requirements and designs emerge from self-organizing teams.
+
+210
+00:21:06,000 --> 00:21:16,000
+At regular intervals, the team reflects on how to become more effective than tunes and adjusts its behavior accordingly.
+
+211
+00:21:16,000 --> 00:21:20,000
+Let us now quickly recap this lesson.
+
+212
+00:21:20,000 --> 00:21:27,000
+A project is a temporary endeavor undertaken to create a unique product, service or result.
+
+213
+00:21:27,000 --> 00:21:40,000
+Project success depends on the ability and maturity of the organization, carrying out the project, communication and collaboration between stakeholders and understanding of project requirements.
+
+214
+00:21:40,000 --> 00:21:46,000
+The project lifecycle approach can be predictive, adaptive, agile or hybrid.
+
+215
+00:21:46,000 --> 00:21:53,000
+The PVMO supports ongoing projects and can be supportive, directive or controlling.
+
+216
+00:21:53,000 --> 00:22:02,000
+Organizational project management involves the strategic alignment of organizational objectives with projects, programs and portfolios.
+
+217
+00:22:02,000 --> 00:22:07,000
+Organizational structures impact the relative authority of the project manager.
+
+218
+00:22:07,000 --> 00:22:12,000
+The agile manifesto outlines four foundational core values.
+
+219
+00:22:12,000 --> 00:22:20,000
+The PIM Bach Guide Senate Edition articulates 12 principles of project management and eight performance domains.
+
+220
+00:22:20,000 --> 00:22:31,000
+Projects are tailored to their context to enable better outcomes.
+
+221
+00:22:31,000 --> 00:22:33,000
+TIGIC Alignment.
+
+222
+00:22:33,000 --> 00:22:44,000
+By the end of this lesson, you will be able to identify the three components of the PMI talent triangle to recognize their significance in project management.
+
+223
+00:22:44,000 --> 00:22:52,000
+Define the key elements of strategic management in an organization and associate their role in project management.
+
+224
+00:22:52,000 --> 00:23:01,000
+Differentiate between enterprise environmental factors and organizational process assets and recognize their influence on projects.
+
+225
+00:23:01,000 --> 00:23:14,000
+Analyze the internal and external business environment to assess its impact on project management effectiveness.
+
+226
+00:23:14,000 --> 00:23:20,000
+In this topic, we are going to learn about strategic alignment to business.
+
+227
+00:23:20,000 --> 00:23:26,000
+Certain skills are vital and strategically aligning projects to the business.
+
+228
+00:23:26,000 --> 00:23:37,000
+The PMI talent triangle reflects the skills required by today's project professionals and change makers as they navigate the changing landscape of project management.
+
+229
+00:23:37,000 --> 00:23:40,000
+Let us look at those skills one by one.
+
+230
+00:23:40,000 --> 00:23:43,000
+The first skill is ways of working.
+
+231
+00:23:43,000 --> 00:23:55,000
+It involves mastering diverse and creative approaches such as predictive, adaptive and design thinking for accomplishing tasks and aligns with the process domain of ECO.
+
+232
+00:23:55,000 --> 00:23:58,000
+Next is power of skills.
+
+233
+00:23:58,000 --> 00:24:10,000
+It comprises of critical interpersonal skills that are required to apply influence, inspire change and build relationships, and it is aligned to the people domain of ECO.
+
+234
+00:24:10,000 --> 00:24:14,000
+Finally, it is the business acumen.
+
+235
+00:24:14,000 --> 00:24:24,000
+It involves effective decision making and understanding of how projects align with the big picture of broader organizational strategy and global trends.
+
+236
+00:24:24,000 --> 00:24:28,000
+This aligns with the business environment domain of the ECO.
+
+237
+00:24:28,000 --> 00:24:40,000
+To strategically align projects to the business, project managers must have an overview of the organization's strategic plan and an understanding of the business plans.
+
+238
+00:24:40,000 --> 00:24:48,000
+They must also collaborate with business stakeholders, SMEs, and sponsors to develop an appropriate delivery strategy.
+
+239
+00:24:48,000 --> 00:24:57,000
+Realize the benefits of a project.
+
+240
+00:24:57,000 --> 00:25:02,000
+In this topic, let us look into the strategic management elements.
+
+241
+00:25:02,000 --> 00:25:09,000
+Strategic management elements include vision that represents where the business aspires to go.
+
+242
+00:25:09,000 --> 00:25:22,000
+Mission that defines the pre-established objective or purpose, objectives or well-defined areas of pursuit, goals which are the milestones and allocated resources.
+
+243
+00:25:22,000 --> 00:25:33,000
+Strategies to use the resources to accomplish the organization's purpose, programs or projects to translate the strategies into action and results.
+
+244
+00:25:33,000 --> 00:25:46,000
+Standard operating procedures SOPs for carrying out routine activities and organizational structures or the arrangement of roles and responsibilities within the organization.
+
+245
+00:25:46,000 --> 00:25:50,000
+The illustration here depicts the strategic management framework.
+
+246
+00:25:50,000 --> 00:26:03,000
+The vision, mission, objectives and goals are met by identifying specific strategies that can be implemented through managing the portfolio of programs and projects, as well as ongoing operations.
+
+247
+00:26:03,000 --> 00:26:13,000
+The organizational structure should also support the achievement of these objectives.
+
+248
+00:26:13,000 --> 00:26:19,000
+Let us now look at the various organizational factors that influence projects.
+
+249
+00:26:19,000 --> 00:26:24,000
+Projects are influenced by two main categories of factors.
+
+250
+00:26:24,000 --> 00:26:32,000
+The first one is the Enterprise Environmental Factors E-F. These can be either internal or external.
+
+251
+00:26:32,000 --> 00:26:40,000
+Internal factors encompass aspects like organizational culture, facilities, employee capabilities and availability.
+
+252
+00:26:40,000 --> 00:26:49,000
+External factors include market conditions, legal restrictions, regulations, socio-cultural influences and more.
+
+253
+00:26:49,000 --> 00:26:55,000
+The second category of factors is the organizational process assets, OPA.
+
+254
+00:26:55,000 --> 00:27:03,000
+This category includes plans, policies, procedures and templates, as well as historical project information.
+
+255
+00:27:03,000 --> 00:27:14,000
+Understanding the external business environment involves using frameworks or prompts to assess external factors that may introduce risks, uncertainties or opportunities.
+
+256
+00:27:14,000 --> 00:27:19,000
+Ultimately influencing the value and desired outcomes of project.
+
+257
+00:27:19,000 --> 00:27:33,000
+Some common frameworks that can be used are PESSL, EXAMINING Risks or Changes related to political, economic, sociocultural, technical, legal and environmental factors.
+
+258
+00:27:33,000 --> 00:27:40,000
+T-COP focusing on technical, environmental, commercial, operational and political aspects.
+
+259
+00:27:40,000 --> 00:27:47,000
+VUCA addressing volatility, uncertainty, complexity and ambiguity.
+
+260
+00:27:47,000 --> 00:28:02,000
+In terms of the internal business environment, the project manager, sponsor and product owner should be aware of the organization's business plans, policies, process reorganization or any other implemented changes.
+
+261
+00:28:02,000 --> 00:28:09,000
+It is important to note that internal changes within the organization can also impact the project's scope.
+
+262
+00:28:09,000 --> 00:28:15,000
+For instance, a change in business priorities could affect one or more of the following.
+
+263
+00:28:15,000 --> 00:28:29,000
+Reprioritizing the delivery of business value to the customer, creating a need for new deliverables, reworking on existing deliverables, eliminating certain deliverables.
+
+264
+00:28:29,000 --> 00:28:42,000
+Let us now quickly recap this lesson. The PMI Talent Triangle reflects the skills needed for project professionals, which are ways of working, power skills and business acumen.
+
+265
+00:28:42,000 --> 00:28:50,000
+Project managers need to have an overview of the organization's strategic plan and an understanding of the business plans.
+
+266
+00:28:50,000 --> 00:29:00,000
+Strategic management elements in an organization include vision, mission, objectives, goals, shops and organizational structure.
+
+267
+00:29:00,000 --> 00:29:07,000
+Factors influencing projects include enterprise environmental factors and organizational process assets.
+
+268
+00:29:07,000 --> 00:29:16,000
+A project manager must understand the internal and external business environment for effective project management.
+
+269
+00:29:50,000 --> 00:30:13,000
+In this lesson, we are going to learn about project benefits and value.
+
+270
+00:30:13,000 --> 00:30:22,000
+By the end of this lesson, you will be able to define the concept of business value and recognize its importance in a business environment.
+
+271
+00:30:22,000 --> 00:30:31,000
+Differentiate between tangible and intangible forms of business value and understand their significance in business activities.
+
+272
+00:30:31,000 --> 00:30:38,000
+Identify key business documents related to a project and analyze their roles in project management.
+
+273
+00:30:38,000 --> 00:30:45,000
+Evaluate various benefit measurement methods to determine their applicability in assessing business initiatives.
+
+274
+00:30:45,000 --> 00:30:57,000
+Explain the concept of objectives and key results, OKR as a goal setting and performance measurement method and understand its utility in achieving business goals.
+
+275
+00:30:57,000 --> 00:31:07,000
+Recognize the benefits of employing an incremental approach in project management and understand its contribution to business initiatives.
+
+276
+00:31:07,000 --> 00:31:16,000
+Let's now start by understanding the business value and its types.
+
+277
+00:31:16,000 --> 00:31:25,000
+Business value refers to the net quantifiable benefit identified from a business endeavor. It can be tangible or intangible.
+
+278
+00:31:25,000 --> 00:31:32,000
+The business case and benefits management plan outlines the benefits or value to the business.
+
+279
+00:31:32,000 --> 00:31:39,000
+Project managers are responsible for balancing the urgency to deliver based on stakeholder expectations.
+
+280
+00:31:39,000 --> 00:31:50,000
+The project team must understand what is valued in the business and their quality expectations while exploring ways to deliver value sooner.
+
+281
+00:31:50,000 --> 00:32:00,000
+As discussed, business value can be categorized into two types, tangible and intangible. Let's now discuss each type one by one.
+
+282
+00:32:00,000 --> 00:32:17,000
+Tangible business value may include the following, financial gain, product improvements, new markets or customers, first mover advantage in the market, technological benefits, social benefits and compliance to regulatory requirements,
+
+283
+00:32:17,000 --> 00:32:29,000
+whereas intangible business value may include brand recognition, goodwill, patents and trademarks, copyrights and proprietary technology.
+
+284
+00:32:29,000 --> 00:32:40,000
+In this topic, we will explore various project related business documents.
+
+285
+00:32:40,000 --> 00:32:48,000
+There are two types of project business documents, the project business case and the project benefits management plan.
+
+286
+00:32:48,000 --> 00:33:05,000
+A project business case is a documented economic feasibility study used to establish the validity of benefits of a selected component lacking sufficient definition and used as a basis for the authorization of further project management activities.
+
+287
+00:33:05,000 --> 00:33:18,000
+On the other hand, a project benefits management plan is the documented explanation defining the processes for creating, maximizing and sustaining the benefits provided by a project.
+
+288
+00:33:18,000 --> 00:33:40,000
+A business case may include but is not limited to documenting the following elements, the business need and analysis of the situation, available options such as doing nothing, doing the minimum work necessary, doing more than the minimum work necessary, a recommendation and an evaluation.
+
+289
+00:33:40,000 --> 00:34:06,000
+The Benefits Management Plan describes the key elements of the benefits and may include but are not limited to the documentation of the following, target benefits, strategic alignment, timeframe, list of benefits owners, metrics, assumptions and risks.
+
+290
+00:34:06,000 --> 00:34:16,000
+Let us now look into the various benefits measurement methods. Before preparing the business case, it's crucial to assess the business needs.
+
+291
+00:34:16,000 --> 00:34:25,000
+A business analyst conducts a business needs assessment to uncover the following information. What are the business goals and objectives?
+
+292
+00:34:25,000 --> 00:34:46,000
+What opportunities are available and what issues need to be addressed? Based on the information gathered, the business analyst will make recommendations on the following, the action to be taken or what needs to be done, constraints, assumptions, risks and dependencies, success measures and implementation approach.
+
+293
+00:34:46,000 --> 00:35:02,000
+Before we dive into the methods for measuring benefits, let's get familiar with a few key terms. Benefit Cost Analysis. The primary goal here is to evaluate and select an alternative where the benefits outweigh the costs.
+
+294
+00:35:02,000 --> 00:35:15,000
+Present Value PV. This represents the current discounted value of money expected in the future. It can be calculated by dividing FV by 1 plus R to the power in.
+
+295
+00:35:15,000 --> 00:35:25,000
+Where? FV stands for the expected amount of money in the future. R is the rate of discounting and in represents the number of years.
+
+296
+00:35:25,000 --> 00:35:35,000
+Moving on, there are two types of benefit measurement methods. The business based method includes payback period and opportunity cost.
+
+297
+00:35:35,000 --> 00:35:46,000
+While the financial based method includes net present value, NPV, internal rate of return, IRR and return on investment, ROI.
+
+298
+00:35:46,000 --> 00:35:58,000
+In the business based methods, payback period is the time it takes to recover the investment or reach the break even point. The shorter the payback period, the better.
+
+299
+00:35:58,000 --> 00:36:15,000
+Opportunity Cost is the cost of the project that was not selected or is foregone in favor of the chosen one. Understanding the opportunity cost helps recognize the potential benefits that are being given up, enabling one to make well-informed decisions.
+
+300
+00:36:15,000 --> 00:36:26,000
+In the financial based methods, net present value or NPV represents the difference between the sum of cash outflows and the sum of cash inflows.
+
+301
+00:36:26,000 --> 00:36:38,000
+It's calculated as sum of present values minus the investment. NPV is a method commonly used for capital budgeting, the higher the NPV, the better the project.
+
+302
+00:36:38,000 --> 00:36:51,000
+Internal rate of return or IRR is the rate of return at which NPV becomes zero. In other words, it's the point where the sum of cash outflows equals the cash inflows.
+
+303
+00:36:51,000 --> 00:37:04,000
+A higher IRR indicates a better investment. Return on investment or ROI is a measure of returns over a specific period, typically expressed as a percentage.
+
+304
+00:37:04,000 --> 00:37:19,000
+It's calculated as net benefit divided by cost, where net benefit is derived as total benefits minus total costs.
+
+305
+00:37:19,000 --> 00:37:34,000
+Let us now understand what objectives and key results are. Objectives and key results, or OKRs, represent a goal-setting approach for measuring an organization's performance and value.
+
+306
+00:37:34,000 --> 00:37:41,000
+In this method, a company's business strategy is broken down into clear objectives and key results.
+
+307
+00:37:41,000 --> 00:37:53,000
+OKRs, help define what the company intends to invest in over time. These objectives are further divided into business increments and additional objectives.
+
+308
+00:37:53,000 --> 00:38:05,000
+The key results and milestones are reviewed over a defined time frame. How does incremental value delivery work? The delivery of features and functions is broken down and delivered frequently.
+
+309
+00:38:05,000 --> 00:38:13,000
+Partial delivery allows for feedback and course correction. Incremental delivery reveals any latent or missed requirements.
+
+310
+00:38:13,000 --> 00:38:28,000
+The execution can follow two methods, iteration-based and flow-based. In an iteration-based approach, each sprint is time-boxed equally. The team takes up priority features and delivers them first.
+
+311
+00:38:28,000 --> 00:38:40,000
+Whereas in a flow-based approach, the time for each sprint is not the same. The team will pull work for their capacity to start work, rather than following an iteration-based schedule.
+
+312
+00:38:40,000 --> 00:38:47,000
+Incremental delivery leads to quicker delivery of value.
+
+313
+00:38:48,000 --> 00:38:58,000
+Let us now quickly recap this lesson. The net quantifiable benefit identified from a business endeavor is referred to as business value.
+
+314
+00:38:58,000 --> 00:39:08,000
+Business value can be either tangible or intangible. Project business documents include a business case and a benefits management plan.
+
+315
+00:39:08,000 --> 00:39:19,000
+Benefits measurement methods include net present value, NPV, internal rate of return, IRR and return on investment ROI.
+
+316
+00:39:19,000 --> 00:39:32,000
+Objectives and key results, OKRs, is a method for setting goals and measuring performance. An incremental approach ensures better and early value delivery.
+
+317
+00:39:33,000 --> 00:39:42,000
+Now that you have completed the lesson, let us look at the exam content outline, ECO, covered in this lesson.
+
+318
+00:39:46,000 --> 00:39:52,000
+We are going to learn about organizational culture and change management in this lesson.
+
+319
+00:39:52,000 --> 00:40:02,000
+By the end of this lesson, you will be able to recognize the significance of organizational culture as one of the critical success factors for a project.
+
+320
+00:40:02,000 --> 00:40:08,000
+Assess how the culture of an organization influences its ability to embrace change.
+
+321
+00:40:09,000 --> 00:40:20,000
+Analyze why organizations embrace change as a means to steer projects to success. Explain the use of the ADCAR model as a framework for organizational change.
+
+322
+00:40:20,000 --> 00:40:25,000
+Identify the set of actions required to support organizational change.
+
+323
+00:40:25,000 --> 00:40:31,000
+Recognize the necessity of having a change implementation plan in place.
+
+324
+00:40:31,000 --> 00:40:43,000
+Provide how PMI's Brightline initiative provides a framework to implement enterprise level changes in organizations.
+
+325
+00:40:43,000 --> 00:40:48,000
+Let's start with organizational culture and change.
+
+326
+00:40:48,000 --> 00:40:53,000
+Organizational culture is one of the critical success factors for the project.
+
+327
+00:40:53,000 --> 00:40:58,000
+The culture of the organization influences its ability to embrace change.
+
+328
+00:40:58,000 --> 00:41:03,000
+Risk attitudes and thresholds shape the culture of the organization.
+
+329
+00:41:03,000 --> 00:41:17,000
+Organizational culture includes various elements such as leadership hierarchy and authority, shared vision, beliefs and expectations, diversity, equity and inclusion practices,
+
+330
+00:41:17,000 --> 00:41:28,000
+risk tolerance, regulations, policies and procedures, code of conduct, operating environments and motivation and reward systems.
+
+331
+00:41:28,000 --> 00:41:33,000
+Let us now understand the importance of change management.
+
+332
+00:41:33,000 --> 00:41:44,000
+Organizations embrace change as a strategy to balance investments, manage risk, become more flexible and ensure maximum return on investment.
+
+333
+00:41:44,000 --> 00:42:03,000
+There are organizations that have project management offices or PMOs which are responsible for establishing and maintaining alignment between projects and the organization through process updates, capability enhancements and the development of new skills to support project management.
+
+334
+00:42:03,000 --> 00:42:23,000
+Change management goes hand in hand with continuous improvement and knowledge transfer activities at the PMO level which is one of the three key areas where PMOs contribute to value delivery.
+
+335
+00:42:23,000 --> 00:42:28,000
+Let's now discuss the change management framework.
+
+336
+00:42:28,000 --> 00:42:34,000
+The ADCAR model is used as a framework for organizational change through individual change.
+
+337
+00:42:34,000 --> 00:42:41,000
+It identifies five milestones that an individual must achieve in order to change successfully.
+
+338
+00:42:41,000 --> 00:42:55,000
+These are, awareness of the need for change, desire to support the change, knowledge of how to change, ability to demonstrate new skills and behaviors and reinforcement to make the change stick.
+
+339
+00:42:55,000 --> 00:43:01,000
+The project manager needs to effectively manage the impact of change on projects.
+
+340
+00:43:01,000 --> 00:43:15,000
+Some of the actions to be taken by the project manager include assessing the organizational culture, evaluating the impact of organizational change on the project and determining the required actions.
+
+341
+00:43:15,000 --> 00:43:26,000
+Recommending options for changes to the project and continually monitoring the external business environment for potential impacts on project scope and backlog.
+
+342
+00:43:26,000 --> 00:43:34,000
+Let's now explore the actions required to support change. These include coaching and mentoring team members.
+
+343
+00:43:34,000 --> 00:43:40,000
+Diting team members with an agile mindset to help them embrace change effectively.
+
+344
+00:43:40,000 --> 00:43:56,000
+Maintaining a continuous and open flow of knowledge within the project, adopting a consultative approach, ensuring that the team is on board with the proposed changes and identifying and effectively managing potential conflicts.
+
+345
+00:43:56,000 --> 00:44:04,000
+Please be cautious to avoid forcing changes and make an effort to avoid alienating resistance stakeholders.
+
+346
+00:44:04,000 --> 00:44:11,000
+For any change, a change implementation plan must be in place and must include the following steps.
+
+347
+00:44:11,000 --> 00:44:18,000
+1. Conducting an attitudinal survey with stakeholders to understand their views on the change.
+
+348
+00:44:18,000 --> 00:44:33,000
+Sensitizing stakeholders about the change. Communicating transparently about the impact of the change and creating a change rollout plan that includes knowledge, training, and other activities as part of the change implementation.
+
+349
+00:44:33,000 --> 00:44:41,000
+PMI's Brightline initiative gives a framework for practitioners to implement enterprise level changes.
+
+350
+00:44:41,000 --> 00:45:10,000
+The Brightline Transformation Compass has five key transformation components that include a North Star statement that communicates the vision and strategic objectives, customer insights and global megatrends, a flat cross-functional transformation operating system, internal volunteer champions instead of external consultants, and an inside-out employee transformation approach similar to the ADCAR framework.
+
+351
+00:45:10,000 --> 00:45:17,000
+Let us now quickly recap this lesson.
+
+352
+00:45:17,000 --> 00:45:32,000
+Organizational Culture is a critical success factor for a project. The culture of an organization influences its ability to embrace change, organizations embrace change to steer projects toward success.
+
+353
+00:45:32,000 --> 00:45:42,000
+The ADCAR model is used as a framework for organizational change through individual change. A set of actions is required to support change.
+
+354
+00:45:42,000 --> 00:45:47,000
+A change implementation plan must be in place for any change.
+
+355
+00:45:47,000 --> 00:45:58,000
+PMI's Brightline initiative provides a framework for practitioners to implement enterprise level changes.
+
+356
+00:45:58,000 --> 00:46:08,000
+Now that you have completed the lesson, let us look at the exam content outline ECO covered in this lesson.
+
+357
+00:46:08,000 --> 00:46:15,000
+In this lesson, we are going to learn about project governance and guidelines and applying governance to projects.
+
+358
+00:46:15,000 --> 00:46:25,000
+By the end of this lesson, you will be able to define the concept of project governance and its role in achieving project management objectives.
+
+359
+00:46:26,000 --> 00:46:29,000
+Describe the components of governance.
+
+360
+00:46:29,000 --> 00:46:37,000
+Differentiate between predictive and adaptive project approaches to understand their influence on project progression.
+
+361
+00:46:37,000 --> 00:46:54,000
+Evaluate the importance of reviews and project environments to recognize their impact on value improvement and decision making for project advancement.
+
+362
+00:46:54,000 --> 00:46:58,000
+Let's learn what project governance is and its components.
+
+363
+00:46:58,000 --> 00:47:13,000
+Project governance is the framework, functions and processes that guide project management activities in order to create a unique product, service or result that meets organizational, strategic and operational goals.
+
+364
+00:47:14,000 --> 00:47:24,000
+Identifying a governance structure is crucial for a project. Each project is unique in terms of requirements, risks and stakeholders among others.
+
+365
+00:47:24,000 --> 00:47:29,000
+Depending on the project complexities, the governance structure could vary.
+
+366
+00:47:29,000 --> 00:47:34,000
+The structure is aligned with the organizational strategy and risk tolerances.
+
+367
+00:47:34,000 --> 00:47:38,000
+Let's look at the complements of a project governance framework.
+
+368
+00:47:39,000 --> 00:47:48,000
+As stated in the PIMBOC guide, a project governance framework can include project success and deliverable acceptance criteria.
+
+369
+00:47:48,000 --> 00:47:52,000
+The process to identify, escalate and resolve issues.
+
+370
+00:47:52,000 --> 00:47:58,000
+The relationship between the project team, organizational groups and external stakeholders.
+
+371
+00:47:58,000 --> 00:48:07,000
+The project organization chart with the project roles, communication processes and procedures, processes for project decision making.
+
+372
+00:48:07,000 --> 00:48:12,000
+Guidelines for aligning project governance and organizational strategy.
+
+373
+00:48:12,000 --> 00:48:17,000
+The project lifecycle approach. The process for stage date or phase reviews.
+
+374
+00:48:17,000 --> 00:48:23,000
+The process for the review and approval of changes above the project manager's authority.
+
+375
+00:48:23,000 --> 00:48:29,000
+And the process to align internal stakeholders with the project process requirements.
+
+376
+00:48:29,000 --> 00:48:40,000
+Let's look at the guidelines for good project governance.
+
+377
+00:48:40,000 --> 00:48:47,000
+These guidelines are involve the organization's decision makers who are frequently at senior managers.
+
+378
+00:48:47,000 --> 00:48:52,000
+Choose the most appropriate governance goals and try to keep them simple.
+
+379
+00:48:52,000 --> 00:48:58,000
+Select a group of experienced individuals to be responsible for all governance activities.
+
+380
+00:48:58,000 --> 00:49:02,000
+Practice governance for projects, programs and portfolios.
+
+381
+00:49:02,000 --> 00:49:07,000
+Keep the governance process transparent to the project stakeholders.
+
+382
+00:49:07,000 --> 00:49:16,000
+And finally, remember that governance is an evolutionary process and take advantage of the lessons you have learned during this process.
+
+383
+00:49:16,000 --> 00:49:19,000
+Let us now understand the escalation procedure.
+
+384
+00:49:19,000 --> 00:49:28,000
+Escalation is the process of addressing issues or problems that fall beyond the authority of the project manager or the team.
+
+385
+00:49:28,000 --> 00:49:32,000
+When an issue falls within the defined threshold, the team will handle it.
+
+386
+00:49:32,000 --> 00:49:40,000
+If it exceeds the threshold, it gets escalated to the appropriate stakeholder for a decision and further action.
+
+387
+00:49:40,000 --> 00:49:56,000
+It's crucial to have well-defined escalation procedures and team members should be familiar with these processes to ensure timely responses.
+
+388
+00:49:56,000 --> 00:50:02,000
+Let's explore how to apply governance to various types of projects.
+
+389
+00:50:02,000 --> 00:50:19,000
+According to PIMBOX 6th edition, at the beginning of each phase, it is a good practice to verify and validate the assumptions made before the project has begun, analyze the risks, and explain in detail the processes required to achieve the deliverables.
+
+390
+00:50:19,000 --> 00:50:29,000
+After the key deliverables of a particular phase are produced, a review at the end of the phase is necessary to ensure completeness and acceptance.
+
+391
+00:50:29,000 --> 00:50:47,000
+What is a phase gate? A phase gate, also known as a governance gate, tall gate or kill point, is a review at the end of a phase in which a decision is made to continue to the next phase as is, to continue with some modification or to end a project or program.
+
+392
+00:50:47,000 --> 00:50:55,000
+Each review is used to check if each phase has fulfilled the exit criteria and is eligible to move to the next phase.
+
+393
+00:50:55,000 --> 00:51:00,000
+These criteria serve as thresholds for the continuation of the project.
+
+394
+00:51:00,000 --> 00:51:12,000
+Software development projects can utilize a special type of phase gate called a quality gate, which is located before a phase that is strongly dependent upon the outcomes of a previous phase.
+
+395
+00:51:12,000 --> 00:51:40,000
+When it comes to adaptive projects, the process of applying governance includes the following steps, splitting work into releases, reviewing results at the end of iterations, gathering feedback and taking action to improve value in the next iteration, continuing until the customer's acceptance criteria, for example, definition of done or MVP are satisfied or the project ends.
+
+396
+00:51:43,000 --> 00:51:57,000
+Let us now quickly recap this lesson. Project governance is a framework that provides oversight of processes and procedures, guiding project management activities to achieve objectives.
+
+397
+00:51:57,000 --> 00:52:05,000
+Governance encompasses processes for a life cycle approach, phase reviews, success and deliverable acceptance criteria.
+
+398
+00:52:05,000 --> 00:52:15,000
+Governance also includes identification, escalation and resolution of issues and approval of changes beyond the project manager's authority.
+
+399
+00:52:15,000 --> 00:52:24,000
+In predictive projects, a review at the end of a phase, known as the phase gate review, determines the transition to the next phase.
+
+400
+00:52:24,000 --> 00:52:34,000
+In adaptive projects, a review is conducted at the end of each iteration, and based on the feedback received, improvements are planned for the subsequent iteration.
+
+401
+00:52:37,000 --> 00:52:45,000
+Now that you have completed the lesson, let us look at the exam content outline, ECO, covered in this lesson.
+
+1
+00:00:00,000 --> 00:00:09,160
+In this lesson, we are going to explore the concept of compliance and its requirements,
+
+2
+00:00:09,160 --> 00:00:14,160
+categories, risks on non-compliance and best practices.
+
+3
+00:00:14,160 --> 00:00:19,640
+By the end of this lesson, you will be able to manage compliance throughout the project
+
+4
+00:00:19,640 --> 00:00:24,960
+to ensure adherence to necessary standards and regulations.
+
+5
+00:00:24,960 --> 00:00:31,280
+By various compliance categories to understand different areas of regulatory requirements,
+
+6
+00:00:31,280 --> 00:00:37,200
+identify potential threats to compliance within the project's scope and context, analyze
+
+7
+00:00:37,200 --> 00:00:43,560
+the consequences of non-compliance and develop effective strategies to manage and mitigate
+
+8
+00:00:43,560 --> 00:00:49,720
+associated risks, implement best practices for compliance management to enhance project
+
+9
+00:00:49,720 --> 00:01:00,920
+integrity and regulatory adherence.
+
+10
+00:01:00,920 --> 00:01:06,880
+Let us understand the concepts related to project compliance, like categories, requirements
+
+11
+00:01:06,880 --> 00:01:09,640
+and best practices.
+
+12
+00:01:09,640 --> 00:01:16,240
+The project manager has to identify and manage compliance requirements for the project.
+
+13
+00:01:16,240 --> 00:01:21,320
+Compliance is also an important area to be tracked and managed throughout the project.
+
+14
+00:01:21,320 --> 00:01:26,600
+Any non-compliance to the requirements might jeopardize the project's interest.
+
+15
+00:01:26,600 --> 00:01:31,600
+Some projects might have regulatory compliance as a mandatory requirement.
+
+16
+00:01:31,600 --> 00:01:38,320
+For example, projects in aviation, food, drugs and clinical trials might require approvals
+
+17
+00:01:38,320 --> 00:01:43,080
+or sanctions from government regulatory bodies or agencies.
+
+18
+00:01:43,760 --> 00:01:47,680
+Let's look at the classification of compliance categories.
+
+19
+00:01:47,680 --> 00:01:55,320
+Generally, types of compliance are categorized into environmental risk, workplace health and safety,
+
+20
+00:01:55,320 --> 00:02:01,080
+corrupt practices, social responsibility, quality and process risks.
+
+21
+00:02:01,080 --> 00:02:06,480
+These categories might vary depending on the industry and type of project.
+
+22
+00:02:06,480 --> 00:02:12,000
+Let's now understand how changes to the compliance requirements can be identified.
+
+23
+00:02:12,040 --> 00:02:19,240
+Compliance requirements could change with changes to any of the environmental factors associated with the project.
+
+24
+00:02:19,240 --> 00:02:24,440
+The potential changes include identification of new vulnerabilities,
+
+25
+00:02:24,440 --> 00:02:31,840
+changes in legal or regulatory requirements, errors in testing and validation to confirm compliance,
+
+26
+00:02:31,840 --> 00:02:37,760
+errors or bugs and deliverables, and lack of awareness of compliance requirements.
+
+27
+00:02:37,800 --> 00:02:46,160
+Non-compliance could lead to unnecessary legal problems besides delay in execution and escalation and cost.
+
+28
+00:02:46,160 --> 00:02:52,200
+Therefore, the project manager has to identify the compliance requirements pertaining to legal,
+
+29
+00:02:52,200 --> 00:02:58,680
+regulatory, environmental and other factors right at the beginning of planning the project.
+
+30
+00:02:58,680 --> 00:03:06,880
+In some projects, expert resources might have to be onboarded in the team for tracking and managing compliance requirements.
+
+31
+00:03:06,880 --> 00:03:13,200
+Project managers need to ensure that compliance requirements for the project are continually identified,
+
+32
+00:03:13,200 --> 00:03:15,680
+communicated and managed.
+
+33
+00:03:15,680 --> 00:03:22,520
+To manage compliance requirements, any changes to the requirements are identified and analyzed for their impact,
+
+34
+00:03:22,520 --> 00:03:26,720
+and the corresponding updates are made to the project plan.
+
+35
+00:03:26,720 --> 00:03:31,160
+Some of the best practices for compliance management include
+
+36
+00:03:31,200 --> 00:03:37,040
+documentation, updating compliance needs and risks in the risk register,
+
+37
+00:03:37,040 --> 00:03:43,240
+risk planning, prioritizing compliance in risk planning, compliance counsel,
+
+38
+00:03:43,240 --> 00:03:47,840
+establishing a compliance counsel for governance and oversight,
+
+39
+00:03:47,840 --> 00:03:55,440
+compliance audits, using compliance audits to ensure procedure adherence and compliance stewardship,
+
+40
+00:03:55,440 --> 00:04:02,440
+assigning the project manager the responsibility of steering and managing compliance.
+
+41
+00:04:08,640 --> 00:04:11,920
+Let us take a look at a project scenario.
+
+42
+00:04:11,920 --> 00:04:19,280
+Of late, it is observed that the leads and inquiries received from customers are not getting turned into opportunities.
+
+43
+00:04:19,280 --> 00:04:23,880
+It is also becoming difficult to track them to convert into orders.
+
+44
+00:04:23,920 --> 00:04:29,720
+For confirmed orders received, there is no single way of keeping a track of pending orders.
+
+45
+00:04:29,720 --> 00:04:36,640
+Each function in the organization tries to follow their own processes to maintain records of their function.
+
+46
+00:04:36,640 --> 00:04:43,240
+This was putting a lot of pressure on the business team as the response from the market was not encouraging.
+
+47
+00:04:43,240 --> 00:04:49,800
+Phillips is a project manager working for a reputed product company manufacturing electronic parts
+
+48
+00:04:49,800 --> 00:04:52,960
+for the automotive industry in your city.
+
+49
+00:04:52,960 --> 00:04:58,200
+The company has orders for the next five years and phases in the growing.
+
+50
+00:04:58,200 --> 00:05:06,520
+In a bid to put an end to this problem, the management decides to implement an enterprise resource planning or ERP system
+
+51
+00:05:06,520 --> 00:05:12,400
+so that there could be a single platform for all transactions across functions within the company
+
+52
+00:05:12,400 --> 00:05:18,040
+and offer a clear view of what is happening at various levels within the organization.
+
+53
+00:05:18,080 --> 00:05:23,760
+Management information system reports are expected to be current at any point in time.
+
+54
+00:05:23,760 --> 00:05:32,200
+What are some of the key things that you would advise Phillips with specific reference to compliance and governance structure for the project?
+
+55
+00:05:32,200 --> 00:05:38,080
+Phillips should begin by gathering the compliance requirements applicable to the project.
+
+56
+00:05:38,080 --> 00:05:48,000
+These requirements may encompass areas such as quality, technical, IT, legal, licenses for users, training and more.
+
+57
+00:05:48,000 --> 00:05:54,440
+Requirement gathering should be a comprehensive exercise involving teams from all functions.
+
+58
+00:05:54,440 --> 00:06:02,360
+Additionally, consider establishing a cross-functional compliance council to oversee and monitor compliance.
+
+59
+00:06:02,360 --> 00:06:12,040
+In an ERP implementation, change management plays a significant role as users must adapt to new work processes through the system.
+
+60
+00:06:12,040 --> 00:06:18,320
+Similarly, post-implementation users may require initial support and guidance.
+
+61
+00:06:18,320 --> 00:06:32,960
+Regarding the governance structure, since implementing an ERP is an organization-wide initiative involving various functions like finance, sales, HR, marketing, materials management, stores and inventory,
+
+62
+00:06:32,960 --> 00:06:37,640
+consider forming a project committee comprising all functional heads.
+
+63
+00:06:37,680 --> 00:06:47,200
+This committee can oversee implementation, manage changes in their respective functions, and assist in finalizing requirements and sign-offs.
+
+64
+00:06:47,200 --> 00:06:59,520
+The committee may also act as change-makers guiding their teams through necessary business process re-engineering to align with the ERP, as well as planning user training and support.
+
+65
+00:06:59,520 --> 00:07:09,960
+Phillips may also need to decide whether the project committee will have a subcommittee handling compliance matters, or if a separate compliance council will be formed.
+
+66
+00:07:09,960 --> 00:07:15,280
+This decision can be project-specific following organizational procedures.
+
+67
+00:07:15,280 --> 00:07:26,960
+In some organizations, a PMO or project management office could be established solely for the implementation, encompassing all the aforementioned responsibilities.
+
+68
+00:07:30,520 --> 00:07:33,520
+Let us now quickly recap this lesson.
+
+69
+00:07:33,520 --> 00:07:44,520
+Compliance requires continuous tracking and management throughout the project, encompassing the identification and categorization of compliance requirements.
+
+70
+00:07:44,520 --> 00:07:55,520
+This process also involves identifying and tracking potential threats to compliance, as well as analyzing and managing the consequences of non-compliance.
+
+71
+00:07:55,520 --> 00:07:59,520
+Non-compliance with requirements may jeopardize the project's interests.
+
+72
+00:07:59,520 --> 00:08:09,520
+Certain projects, such as those in aviation, food and drugs and clinical trials, have mandatory regulatory compliance requirements.
+
+73
+00:08:09,520 --> 00:08:20,520
+Compliance categories include environmental risk, workplace health and safety, corrupt practices, social responsibility, quality and process risks.
+
+74
+00:08:20,520 --> 00:08:30,520
+Compliance requirements may change in response to alterations in the environmental factors associated with the project.
+
+75
+00:08:30,520 --> 00:08:41,520
+Now that you have completed the lesson, let us look at the exam content outline ECO covered in this lesson.
+
