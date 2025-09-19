@@ -1,7 +1,10 @@
 ---
-title: ECO Domain Index
+title: 5 ECO Domain Index
 description: Entry point for ECO alignment — People, Process, and Business Environment.
-tags: [eco, index, pmp]
+tags:
+  - eco
+  - index
+  - pmp
 date: 2025-09-18
 ---
 

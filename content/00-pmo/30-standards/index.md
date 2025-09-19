@@ -1,5 +1,5 @@
 ---
-title: 30 Standards
+title: 3 Standards
 description: Templates and logs that standardize how project records are kept.
 tags:
   - governance

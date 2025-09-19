@@ -1,5 +1,5 @@
 ---
-title: Guidance and Internal Docs
+title: 4 Guidance and Internal Docs
 description: Orientation and internal project docs that explain context, structure, and control for Project PASS PMP.
 tags:
   - guidance

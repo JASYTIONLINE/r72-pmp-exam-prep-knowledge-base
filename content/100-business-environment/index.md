@@ -1,5 +1,5 @@
 ---
-title: Business Environment Domain Index
+title: 3 Business Environment Domain Index
 date: 2025-09-07
 draft: false
 tags:

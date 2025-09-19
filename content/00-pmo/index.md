@@ -1,5 +1,5 @@
 ---
-title: 00 Project Management Office (PMO)
+title: 0 Project Management Office (PMO)
 description: Entry point for governance, policies, procedures, standards, and guidance for Project PASS PMP.
 tags:
   - governance

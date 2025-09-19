@@ -1,5 +1,5 @@
 ---
-title: People Domain Index
+title: 1 People Domain Index
 date: 2025-09-07
 draft: false
 tags:

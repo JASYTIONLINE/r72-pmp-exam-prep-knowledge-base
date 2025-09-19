@@ -1,5 +1,5 @@
 ---
-title: 10 Policies
+title: 1 Policies
 description: Mandatory rules that define how Project PASS PMP is governed.
 tags:
   - governance

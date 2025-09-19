@@ -1,5 +1,5 @@
 ---
-title: 20 Procedures
+title: 2 Procedures
 description: Step-by-step workflows for executing and controlling Project PASS PMP.
 tags:
   - governance
