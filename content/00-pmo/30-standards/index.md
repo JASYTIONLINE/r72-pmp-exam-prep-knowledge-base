@@ -18,7 +18,7 @@ Standards define *how we record* information so that history, risks, and lessons
 ## Contents
 - [[60-risk-log|Risk Log]] — records identified risks, ECO mapping, responses, and status.
 - [[40-change-log|Change Log]] — tracks structural/content changes (e.g., PMBOK 7 → PMBOK 8).
-- [[70-lessons-learned|Lessons Learned Log]] — weekly retrospectives and improvements.
+- [[50-lessons-learned|Lessons Learned Log]] — weekly retrospectives and improvements.
 
 ## How to Use
 Use these logs as **living documents**: update regularly, version properly, and cross-link to ECO codes where relevant.  

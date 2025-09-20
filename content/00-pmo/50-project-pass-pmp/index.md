@@ -40,7 +40,7 @@ This is a **practice project**: it reinforced the skills needed both to pass the
 - [[01-cutomer-intake-interview-project-pass-pmp|Customer Intake Interview]]  
   Initial sponsor Q&A, problem statement, success criteria, and assumptions.
 
-- [[03-charter-project-pass-pmp|Project Charter]]  
+- [[02-charter-project-pass-pmp|Project Charter]]  
   Formal authorization, project purpose, measurable objectives, and stakeholder authority.
 
 - [[03-scope-project-pass-pmp|Scope Statement]]  

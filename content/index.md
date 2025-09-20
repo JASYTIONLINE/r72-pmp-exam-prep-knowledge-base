@@ -14,26 +14,30 @@ date: 2025-09-13
 # JASYTI's PMI Compliant PMP Examination Prep Course (Knowledge Base - HOME)
 CMPA 3302
 
-## BLUF — What this site is
-This is a **PMP exam prep study site** designed to **systematically guide you through the course material** and prepare you for the **PMI® PMP exam**. It is organized as a modular index (welcome, syllabus, sections, lessons) aligned to the **PMP Examination Content Outline (ECO)** and cross-referenced to PMBOK guidance. Use this page as the **table of contents**; each item links to focused lesson notes, references, and practice assets.
+## What am I looking at?  
+This site is a Project Management Professional knowledge base built to give you clarity, structure, and tools you can actually use. It’s mapped to PMI’s Examination Content Outline (ECO) and cross-referenced with PMBOK guidance. Think of it as your table of contents and your launchpad.
 
----
-## 10 Welcome
-### 11 Content Introduction
-Welcome to the PMP with Exam course! This course will guide you through the domains, tasks, and enablers outlined in the PMP Examination Content Outline (ECO). It is designed to prepare you not only for the exam but also to apply project management practices in real-world business environments.
+## Welcome  
+Maybe you found this site through a friend, a late-night scroll, or because the universe finally got tired of watching you wing it. Either way—you’re here, and you belong here. If you’re like me, you’ve been managing people, timelines, and deliverables for years without the title, the pay, or the support.
 
-[[#JASYTI's PMI Compliant PMP Examination Prep Course (Knowledge Base - HOME)|Top]]
-### 12 General Information
-#### About the content
-The PMP with Exam course provides comprehensive coverage of the Project Management Professional framework. It is aligned with the PMI Examination Content Outline and integrates best practices from PMBOK guidance and Agile methodologies.  
-The course is structured into sections that cover **Business Environment**, **Process**, and **People**, with practice assessments and a final mock exam.
+## What is a Project Management Professional?**  
+You already are one, even if nobody’s ever called you that. Students, homemakers, managers, shift leaders—we all juggle projects every day. A PMP is simply someone who turns those unofficial skills into recognized, rewarded expertise.
 
-#### Recommended Background
+### It’s your call!
+The choice is simple: keep grinding without recognition, or take control of your skills, your time, and your career. This site gives you a system to do it—whether you follow it step by step or use it as your secret weapon alongside a course.
+
+### Why is this here? 
+I built this because I needed it. Studying project management changed how I work and how I live. I stopped feeling crushed by the grind and started leading with purpose, even outside the office.
+
+### So, what are you going to do?  
+This site is your launchpad, your reference hub, and your quiet advantage. The only question left is: _Are you ready to stop winging it and step into the role you’ve been living all along?_ If so—welcome aboard.
+
+### Recommended Background
 - Familiarity with basic project management concepts  
-- Experience working on or managing projects  
-- Understanding of organizational processes and team dynamics
+- Experience working on or managing projects or leading small teams
+- Exposure to, with a basic understanding of organizational processes and team dynamics
 
-### 13 Content Learning Objectives
+### Content Learning Objectives
 After completing this course, you should be able to:
 1. (CLO 01) Demonstrate understanding of the PMP domains (Business Environment, Process, People).  
 2. (CLO 02) Apply knowledge of project governance, compliance, and benefits realization.  
@@ -52,16 +56,7 @@ I am studying to pass the **Project Management Institute’s** PMP Certification
 ---
 ## Navigation
 
-- [[#JASYTI's PMI Compliant PMP Examination Prep Course (Knowledge Base - HOME)|Top]]
-- [[readme|PMP Exam Prep Website — Reader’s Guide]]
-- [[20-about-jasyti|About JASYTI]]  
-## [[00-pmo/40-gids/index|Governance and Information]]
-- [[00-pmo/10-policy/index|10 Policies]]
-- [[00-pmo/20-procedure/index|20 Procedures]]
-- [[00-pmo/30-standards/index|30 Standards]]
-- [[00-pmo/40-gids/index|40 Guidance and Internal Documents]]
-- [[00-pmo/50-project-pass-pmp/index|Project Pass PMP Documents]]
-## Content
+### Learning Matter Content
 ### [[100-business-environment/index|Section 100: Business Environment]] 
 - [[110-foundation|110 Foundation]]  
 - [[120-strategic-alignment|120 Strategic Alignment]]
@@ -108,11 +103,37 @@ I am studying to pass the **Project Management Institute’s** PMP Certification
 - [[510-domain-1-people|Domain 1 People Tasks and Enablers Explained]]
 - [[520-domain-2-process|Domain 2 Process Tasks  and Enablers Explained]]
 - [[530-domain-3-business-environmetn|Domain 3 Business Environment Explained]]
+
+### JASYTI's PMI Compliant PMP Examination Prep Course (Admin)
+
+- [[#JASYTI's PMI Compliant PMP Examination Prep Course (Knowledge Base - HOME)|Top]]
+- [[readme|PMP Exam Prep Website — Reader’s Guide]]
+- [[20-about-jasyti|About JASYTI]]  
+### [[00-pmo/40-gids/index|Governance and Information]]
+#### [[00-pmo/10-policy/index|10 Policies]]
+#### [[00-pmo/20-procedure/index|20 Procedures]]
+
+#### [[00-pmo/30-standards/index|30 Standards]]
+#### [[00-pmo/40-gids/index|40 Guidance and Internal Documents]]
+- [[10-course-introduction|Content Introduction]]
+- [[20-about-jasyti|About-JASYTI]]
+- [[30-agenda|PMP Pass Repo Construction Workflow]]
+- [[50-lessons-learned|Lessons Learned Log]]
+- [[60-risk-log|Risk Log]]
+####  [[00-pmo/50-project-pass-pmp/index|50 Project PMP Documents]]
+- [[00-pmo/50-project-pass-pmp/01-cutomer-intake-interview-project-pass-pmp.md|Customer Intake Interview (Project PMP Pass)]]
+- [[02-charter-project-pass-pmp|Project PMP Pass Charter]]
+- [[03-scope-project-pass-pmp|Project Pass PMP Scope Statement]]
+- [[04-project-plan-project-pass-pmp|Project Pass PMP Project Plan]]
+ 
 ---
 ## References
--  2022 Exam Content Outline
-- **PMBOK 6th Edition** — process groups & knowledge areas (initiating, planning, executing, monitoring/controlling, closing; scope, schedule, cost, etc.).  
-- **PMBOK 7th Edition** — performance domains and principles emphasizing value/outcomes.
+- Project Management Professional (PMP)® Examination Content Outline – January 2021 
+- Project Management Institute(2017). *A Guide to the Project Management Body of Knowledge (PMBOK® Guide).* 6th ed., Project Management Institute.
+- Project Management Institute. (2021). *A guide to the project management body of knowledge (PMBOK® guide)* (7th ed.). Project Management Institute.
+- Project Management Institute & Agile Alliance. (2017). _Agile practice guide_. Project Management Institute.
+- Simplilearn. (n.d.). _Business environment (case review)._ Simplilearn.
+- Project Management Institute. (2021). _Project Management Professional (PMP)®: Examination content outline — January 2021 exam update_. Project Management Institute.
 ---
 ### Related Documents
 - [[#JASYTI's PMI Compliant PMP Examination Prep Course (Knowledge Base - HOME)|Top]]

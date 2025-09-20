@@ -24,7 +24,7 @@ Unlike lessons or resources, these are **meta-documents** — about the project,
 ### Linked Governance Logs
 - [[60-risk-log|Risk Log]] — Tracks identified risks, ECO mapping, responses, and status.  
 - [[40-change-log|Change Log]] — Records structural/content changes (e.g., PMBOK 7 → PMBOK 8).  
-- [[70-lessons-learned|Lessons Learned Log]] — Weekly retrospectives and improvements.
+- [[50-lessons-learned|Lessons Learned Log]] — Weekly retrospectives and improvements.
 
 ---
 
